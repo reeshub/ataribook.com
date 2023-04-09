@@ -2,12 +2,12 @@
   <service>
     <engineName>WordPress</engineName>
     <engineLink>http://wordpress.org/</engineLink>
-    <homePageLink>http://ataribook.com/book/businessiswar</homePageLink>
+    <homePageLink>/businessiswar</homePageLink>
     <apis>
-      <api name="WordPress" blogID="1" preferred="true" apiLink="http://ataribook.com/book/businessiswar/xmlrpc.php" />
-      <api name="Movable Type" blogID="1" preferred="false" apiLink="http://ataribook.com/book/businessiswar/xmlrpc.php" />
-      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="http://ataribook.com/book/businessiswar/xmlrpc.php" />
-      <api name="Blogger" blogID="1" preferred="false" apiLink="http://ataribook.com/book/businessiswar/xmlrpc.php" />
+      <api name="WordPress" blogID="1" preferred="true" apiLink="/businessiswar/xmlrpc.php" />
+      <api name="Movable Type" blogID="1" preferred="false" apiLink="/businessiswar/xmlrpc.php" />
+      <api name="MetaWeblog" blogID="1" preferred="false" apiLink="/businessiswar/xmlrpc.php" />
+      <api name="Blogger" blogID="1" preferred="false" apiLink="/businessiswar/xmlrpc.php" />
           </apis>
   </service>
 </rsd>
